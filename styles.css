@@ -1,7 +1,4 @@
-:root {
-    --usf-green: #006747;
-    --usf-gold: #FDBB30;
-    --white: #FFFFFF;
-    --text-dark: #333333;
-    --link-hover: #FDBB30;
-  }
+body {
+background-color:bisque;
+color: blue;
+}
