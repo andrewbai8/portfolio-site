@@ -1,0 +1,10 @@
+h1 {
+    margin:  30;
+    font-size: 2.5rem;
+    color: rgb(43, 226, 168) ;
+}
+h2 {
+    margin:  10;
+    font-size: 3.5rem;
+    color: hsl(342, 5%, 36%) ;
+}
