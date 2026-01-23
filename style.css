@@ -23,3 +23,43 @@ header {
     font-size: 2.0rem;
     color: rgb(1, 0, 5) ;
   }
+  section {
+    margin-bottom: 2rem;
+  }
+  
+  h2 {
+    color: rgb(143, 21, 152);
+    border-bottom: 2px solid var(--usf-gold);
+    padding-bottom: 0.3rem;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  ul li {
+    margin-bottom: 0.5rem;
+  }
+  
+  a {
+    color:rgb(6, 135, 233);
+
+  }
+  
+  a:hover {
+    color: var(--link-hover);
+    text-decoration: underline;
+  }
+  
+  footer {
+    background-color:cadetblue;
+    color: var(--white);
+    text-align: center;
+    padding: 1rem;
+    margin-top: 2rem;
+  }
+  
+  .contact-info li {
+    margin-bottom: 0.25rem;
+  }
