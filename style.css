@@ -61,5 +61,11 @@ header {
   }
   
   .contact-info li {
-    margin-bottom: 0.25rem;
+    margin-bottom: 0.5rem;
+  }
+  p {
+    color: rgb(11, 11, 10);
+    border-bottom: 2px solid var(--usf-gold);
+    padding-bottom: 0.5rem;
+    font-size: 2rem;
   }
