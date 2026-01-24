@@ -67,6 +67,6 @@ header {
   p {
     color: rgb(11, 11, 10);
     border-bottom: 0.2px solid ;
-    padding-bottom: 0.2rem;color: aliceblue;
+    padding-bottom: 0.2rem;color: rgb(8, 10, 11);
     font-size: 3rem;
   }
